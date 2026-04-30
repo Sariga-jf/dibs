@@ -28,7 +28,7 @@ npm run dev
 
 ## Screenshots
 
-###Landing Page
+### Landing Page
 ![Landing Page](visuals/dibslanding.png)
 
 ### Login Page
